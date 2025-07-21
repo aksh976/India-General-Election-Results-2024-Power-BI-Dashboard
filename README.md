@@ -77,6 +77,14 @@ Donut Chart – Party-wise Seat Share (State Level)
 Exportable Grid Table with All Key Metrics
 
 - Dashboard Interaction <a href="https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Election%20Analysis.pbix">View Dashboard</a>
+## Dashboard
+![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165552.png.jpg)
+![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165622.png.jpg)
+![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165649.png.jpg)
+![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165713.png.jpg)
+![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165731.png.jpg)
+![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165747.png.jpg)
+
 
 # Final Conclusion:
 This Power BI project delivers a comprehensive and interactive analysis of the India General Election 2024 results, covering national, state, and constituency levels. By leveraging advanced visualizations, drill-through filters, and dynamic KPIs, the dashboard enables deep insights into political trends, alliance performances, and voting behavior.
