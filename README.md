@@ -83,7 +83,7 @@ Exportable Grid Table with All Key Metrics
 ![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165649.png.jpg)
 ![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165713.png.jpg)
 ![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165731.png.jpg)
-![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165747.png.jpg)
+![Dashboard](Screenshot 2025-07-21 165747.png)
 
 
 # Final Conclusion:
