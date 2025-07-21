@@ -95,14 +95,8 @@ It showcases expertise in data modeling, DAX, user-focused dashboard design, and
 
 
 
-
-
-
-
-
-
 ##  Tools Used
 - **Power BI Desktop**
 - **DAX**
 - **Data Modeling**
-- **Bookmarks and Drill-through Filters**
+- ** Drill-through Filters**
