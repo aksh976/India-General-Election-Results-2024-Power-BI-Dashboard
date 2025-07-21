@@ -78,12 +78,12 @@ Exportable Grid Table with All Key Metrics
 
 - Dashboard Interaction <a href="https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Election%20Analysis.pbix">View Dashboard</a>
 ## Dashboard
-![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165552.png.)
-![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165622.png.)
-![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165649.png.)
-![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165713.png.)
-![Dashboard](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165731.png.)
-![Dashboard](Screenshot 2025-07-21 165747.png)
+![Dashboard Preview](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165552.png)
+![Dashboard Preview](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165622.png)
+![Dashboard Preview](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165649.png)
+![Dashboard Preview](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165713.png)
+![Dashboard Preview](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165731.png)
+![Dashboard Preview](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165731.png)
 ![Dashboard Preview](https://github.com/aksh976/India-General-Election-Results-2024-Power-BI-Dashboard/blob/main/Screenshot%202025-07-21%20165731.png)
 
 
