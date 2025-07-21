@@ -101,7 +101,7 @@ It showcases expertise in data modeling, DAX, user-focused dashboard design, and
 
 
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Power BI Desktop**
 - **DAX**
 - **Data Modeling**
